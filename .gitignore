@@ -107,3 +107,4 @@ venv.bak/
 # model specific
 
 model/
+.vscode/

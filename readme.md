@@ -10,7 +10,7 @@ The model, pre-processing code and labels used in this project comes from [Multi
 
 Inspired from [@ranman](https://github.com/ranman)'s [Twitch livestream AI Twitter bot session](https://www.twitch.tv/videos/231561561)
 
-This project was built to test the code locally, however if you follow the above interactive coding session you shoulw be able to deploy this on AWS easily.
+This project was built to test the code locally, however if you follow the above interactive coding session you should be able to deploy this on AWS easily.
 
 ## Usage
 
