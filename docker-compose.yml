@@ -1,0 +1,9 @@
+version: "3"
+services:
+  whereami:
+    image: whereami:latest
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - "./model:/opt/ml/model"

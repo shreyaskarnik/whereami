@@ -1,0 +1,5 @@
+flask
+scikit-image
+numpy
+requests
+reverse_geocoder
